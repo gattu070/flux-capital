@@ -7,7 +7,7 @@ export const siteConfig = {
 
   // Contact Information
   email: "fluxcapital11@gmail.com",
-  whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "+919876543210",
+  whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "+917777918160",
   instagram: "https://www.instagram.com/fluxcapital_?igsh=ZzNwb3V2NGZ4d2d2",
 
   // Business Details
